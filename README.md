@@ -9,10 +9,10 @@
 
 
 #### Languages :computer:
-![Typescript](./icons/ts.png) ![Javascript](./icons/js.png) ![Python](./icons/python.png) ![Ruby](./icons/ruby.png) ![C](./icons/c.png) 
+![Typescript](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/ts.png) ![Javascript](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/js.png) ![Python](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/python.png) ![Ruby](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/ruby.png) ![C](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/c.png) 
 
 #### Technologies
-![React](./icons/react.png) ![Node](./icons/node.png) 
+![React](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/react.png) ![Node](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/node.png) 
 
 &nbsp;
 
@@ -22,8 +22,8 @@
 
 ---
 <p align=center> 
-  <a href="https://www.linkedin.com/in/luisvssousa/"><img src="./icons/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:lv-ss@hotmail.com"><img src="./icons/email.png" alt="email"/></a>
-  <a href="https://www.instagram.com/lu_vss/"><img src="./icons/Instagram.png" alt="instagram"/></a>
-  <a href="https://www.behance.net/IncognitaArt"><img src="./icons/Behance.png" alt="Behance"/></a>
+  <a href="https://www.linkedin.com/in/luisvssousa/"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:lv-ss@hotmail.com"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/email.png" alt="email"/></a>
+  <a href="https://www.instagram.com/lu_vss/"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/Instagram.png" alt="instagram"/></a>
+  <a href="https://www.behance.net/IncognitaArt"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/Behance.png" alt="Behance"/></a>
 </p>
