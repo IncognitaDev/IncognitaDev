@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning:** Typescript and Python
 - 👯 **I’m looking to collaborate on** React projects
 - 😄 **Pronouns:** He/Him
-- <img src="./icons/rubik.png"  width="22px" height="22px"/> **Fun fact:** I solve a Rubik's cube 3x3 in 2min and 4x4 in 4min20sec
+- <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="22px" height="22px"/> **Fun fact:** I solve a Rubik's cube 3x3 in 2min and 4x4 in 4min20sec
 
 #### Languages :computer:
 
