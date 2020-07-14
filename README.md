@@ -1,4 +1,4 @@
-### Hi there! Wellcome to my github profile <img src="./icons/Hi.gif"  width="28px" height="28px"/>
+### Hi there! Wellcome to my github profile <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Hi.gif"  width="28px" height="28px"/>
 
 ---
 
@@ -7,12 +7,13 @@
 - 😄 **Pronouns:** He/Him
 - <img src="./icons/rubik.png"  width="22px" height="22px"/> **Fun fact:** I solve a Rubik's cube 3x3 in 2min and 4x4 in 4min20sec
 
-
 #### Languages :computer:
-![Typescript](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/ts.png) ![Javascript](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/js.png) ![Python](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/python.png) ![Ruby](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/ruby.png) ![C](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/c.png) 
+
+![Typescript](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/ts.png) ![Javascript](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/js.png) ![Python](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/python.png) ![Ruby](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/ruby.png) ![C](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/c.png)
 
 #### Technologies
-![React](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/react.png) ![Node](https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/node.png) 
+
+![React](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/react.png) ![Node](https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/node.png)
 
 &nbsp;
 
@@ -21,9 +22,10 @@
 </p>
 
 ---
+
 <p align=center> 
-  <a href="https://www.linkedin.com/in/luisvssousa/"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/linkedin.png" alt="linkedin"/></a>
-  <a href="mailto:lv-ss@hotmail.com"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/email.png" alt="email"/></a>
-  <a href="https://www.instagram.com/lu_vss/"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/Instagram.png" alt="instagram"/></a>
-  <a href="https://www.behance.net/IncognitaArt"><img src="https://github.com/IncognitaDev/IncognitaDev/tree/master/icons/Behance.png" alt="Behance"/></a>
+  <a href="https://www.linkedin.com/in/luisvssousa/"><img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/linkedin.png" alt="linkedin"/></a>
+  <a href="mailto:lv-ss@hotmail.com"><img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/email.png" alt="email"/></a>
+  <a href="https://www.instagram.com/lu_vss/"><img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Instagram.png" alt="instagram"/></a>
+  <a href="https://www.behance.net/IncognitaArt"><img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Behance.png" alt="Behance"/></a>
 </p>
