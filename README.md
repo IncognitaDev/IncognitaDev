@@ -21,6 +21,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&title_color=2f80ed&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="github stats"/></br>
 </p>
 
+#### My current project
+
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreM-Gomes&repo=async-press&title_color=2f80ed&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="AsyncPress repo" ><br>
+</p>
+
+
 ---
 
 <p align=center> 
