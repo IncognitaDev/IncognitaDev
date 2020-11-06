@@ -2,8 +2,8 @@
 
 ---
 
-- 🌱 **I’m currently learning:** Typescript and Python
-- 👯 **I’m looking to collaborate on** React projects
+- 🌱 **I’m currently learning:** Typescript and Elixir
+- 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
 - <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="22px" height="22px"/> **Fun fact:** I solve a Rubik's cube 3³ in 2min and 4³ in 4min20sec
 
