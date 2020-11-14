@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/IncognitaDev/count.svg" />
+</p>
+
 - 🌱 **I’m currently learning:** Typescript and Elixir
 - 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
@@ -17,13 +21,9 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-plain.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-plain.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-plain.svg" alt="ruby" width="40" height="40"/> </a>   </p> <br/>
 
 <p align=center> 
-  <img src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=radical" alt="github stats"/></br>
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=radical&hide_border=true" alt="github stats"/>
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&theme=radical&layout=compact&langs_count=8" alt="Top languages"/>
 </p> 
-
-#### Top Languages
-
-<p align=center> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&theme=radical&layout=compact" alt="Top languages"/>
 </p> 
 
 #### My current project
