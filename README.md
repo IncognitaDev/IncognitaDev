@@ -1,17 +1,17 @@
 ### Hi there! Wellcome to my github profile <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Hi.gif"  width="28px" height="28px"/>
 
 ---
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/IncognitaDev/count.svg" />
 </p>
+
 
 - 🌱 **I’m currently learning:** Typescript and Elixir
 - 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
 - <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="22px" height="22px"/> **Fun fact:** I solve a Rubik's cube 3³ in 2min and 4³ in 4min20sec
 
-#### Languages :computer:
+#### Languages and Tools: :computer:
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>
