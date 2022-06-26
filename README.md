@@ -9,7 +9,10 @@
 - 🌱 **I’m currently learning:** Typescript and Elixir
 - 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
-- <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="21px" height="21px"/> **Fun fact:** I solve a Rubik's cube 3³ in 2min and 4³ in 4min20sec
+- <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="21px" height="21px"/> **Fun fact:** I solve a Rubik's cube 
+ - 3³ on 2' 
+ - 4³ on 4'20''
+ - 5³ on 6'51''
 
 #### Languages and Tools: :computer:
 
