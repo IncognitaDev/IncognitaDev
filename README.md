@@ -1,6 +1,16 @@
 ### Hi there! Wellcome to my github profile <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/Hi.gif"  width="28px" height="28px"/>
 
 ---
+
+<a href="https://app.daily.dev/IncognitaDev">
+   <img 
+    src="https://api.daily.dev/devcards/fb512bc843ee4016abe1d7bdec567011.png?r=240" 
+    width="250"  
+    align="right"  
+    alt="Luis Sousa's Dev Card"
+    />
+</a>
+  
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/IncognitaDev/count.svg" />
 </p>
@@ -56,6 +66,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a>
 </p> <br/>
+
 
 <p align=center> 
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=radical&hide_border=true" alt="github stats"/>
