@@ -77,7 +77,7 @@
 #### My current project
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndreM-Gomes&repo=async-press&title_color=2f80ed&theme=radical" alt="AsyncPress repo" ><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=radical" alt="Vtex IO Intellisense repo" ><br>
 </p>
 
 
