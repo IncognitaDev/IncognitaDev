@@ -65,6 +65,9 @@
 <a title="React Native" href="https://reactnative.dev/" target="_blank"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 </a>
+<a title="Fresh" href="https://fresh.deno.dev/" target="_blank"> 
+  <img src="https://fresh.deno.dev/logo.svg" height="40px" alt="the fresh logo: a sliced lemon dripping with juice">
+</a>
 </p> <br/>
 
 
@@ -77,7 +80,8 @@
 #### My current project
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=radical" alt="Vtex IO Intellisense repo" ><br>
+   <a href="https://github.com/agencia-e-plus/vtex-io-intelisense" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=radical" alt="Vtex IO Intellisense repo" ></a><br>
 </p>
 
 
