@@ -16,7 +16,7 @@
 </p>
 
 
-- 🌱 **I’m currently learning:** Typescript and Elixir
+- 🌱 **I’m currently learning:** Elixir and Fresh
 - 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
 - <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="21px" height="21px"/> **Fun fact:** I can solve Rubik's cubes 
@@ -26,6 +26,7 @@
 
 #### Languages and Tools: :computer:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,elixir,react,deno,git,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 <p align="left"> 
 <a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
@@ -72,8 +73,9 @@
 
 
 <p align=center> 
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=radical&hide_border=true" alt="github stats"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&theme=radical&layout=compact&langs_count=8" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=IncognitaDev&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=chartreuse-dark&hide_border=true" alt="github stats"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&theme=github-dark&layout=compact&langs_count=8" alt="Top languages"/>
 </p> 
 </p> 
 
@@ -81,7 +83,7 @@
 
 <p align=center>
    <a href="https://github.com/agencia-e-plus/vtex-io-intelisense" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=radical" alt="Vtex IO Intellisense repo" ></a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=github-dark" alt="Vtex IO Intellisense repo" ></a><br>
 </p>
 
 
