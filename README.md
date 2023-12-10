@@ -16,7 +16,7 @@
 </p>
 
 
-- 🌱 **I’m currently learning:** Typescript and Elixir
+- 🌱 **I’m currently learning:** Elixir and Fresh
 - 👯 **I’m looking to collaborate on** React and Nodejs projects
 - 😄 **Pronouns:** He/Him
 - <img src="https://github.com/IncognitaDev/IncognitaDev/blob/master/icons/rubik.png"  width="21px" height="21px"/> **Fun fact:** I can solve Rubik's cubes 
@@ -26,54 +26,17 @@
 
 #### Languages and Tools: :computer:
 
-<p align="left"> 
-<a title="TypeScript" href="https://www.typescriptlang.org/" target="_blank">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-</a> 
-<a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="javascript"/>
-</a>
-<a title="React" href="https://reactjs.org/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-</a>
-<a title="CSS3" href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/> 
-</a>
-<a title="HTML5" href="https://www.w3.org/html/" target="_blank"> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a title="Node" href="https://nodejs.org" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a> 
-<a title="Elixir" href="https://elixir-lang.org/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/> 
-</a>
-<a title="Git" href="https://git-scm.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<a title="Docker" href="https://www.docker.com/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
-</a> 
-<a title="Bash" href="https://www.gnu.org/software/bash/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
-</a> 
-<a title="Linux" href="https://www.linux.org/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/> 
-</a> 
-<a title="MySQL" href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a title="React Native" href="https://reactnative.dev/" target="_blank"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-</a>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,elixir,react,deno,git,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 <a title="Fresh" href="https://fresh.deno.dev/" target="_blank"> 
   <img src="https://fresh.deno.dev/logo.svg" height="40px" alt="the fresh logo: a sliced lemon dripping with juice">
 </a>
-</p> <br/>
 
+<br/>
 
 <p align=center> 
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&theme=radical&hide_border=true" alt="github stats"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&theme=radical&layout=compact&langs_count=8" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=IncognitaDev&theme=github-dark&hide_border=true&date_format=%5BY%20%5DM%20j&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=IncognitaDev&hide_border=true&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117" alt="github stats"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitaDev&hide_border=true&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117&layout=compact&langs_count=8" alt="Top languages"/>
 </p> 
 </p> 
 
@@ -81,7 +44,7 @@
 
 <p align=center>
    <a href="https://github.com/agencia-e-plus/vtex-io-intelisense" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&title_color=2f80ed&theme=radical" alt="Vtex IO Intellisense repo" ></a><br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agencia-e-plus&repo=vtex-io-intelisense&hide_border=true&title_color=39D353&text_color=ffffff&icon_color=39D353&bg_color=0D1117" alt="Vtex IO Intellisense repo" ></a><br>
 </p>
 
 
